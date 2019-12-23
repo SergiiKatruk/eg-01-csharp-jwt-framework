@@ -27,14 +27,14 @@ This launcher example includes two examples:
 
 ## Installation
 
-Requirements: C# and .NET Framework v4.5 or later.
+Requirements: C# and .NET Framework v4.8 or later.
 
-This repository has been tested as a Visual Studio 2017
+This repository has been tested as a Visual Studio 2019
 Community Edition solution.
 
 ### Short installation instructions
 * Download or clone this repository.
-* The repository includes a Visual Studio 2017 solution file and 
+* The repository includes a Visual Studio 2019 solution file and 
   NuGet package references in the project file.
 * Configure the project by editing the existing project file
   `common/App.config`
@@ -89,7 +89,7 @@ A [.NET Core version](https://github.com/docusign/eg-01-csharp-jwt-core)
 of this example is also available. 
 It uses the same common set of source files,
 but is configured as a .NET Core solution for
-Visual Studio 2017.
+Visual Studio 2019.
 
 ## Support, Contributions, License
 
